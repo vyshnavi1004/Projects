@@ -1,0 +1,43 @@
+# Hotel Booking Analysis
+
+## Project Overview
+This project analyzes hotel booking data to understand booking patterns, cancellations, customer types, and booking distribution across different hotel categories. An Excel dashboard was created to summarize key metrics and present insights visually.
+
+## Tools Used
+- Microsoft Excel
+- PivotTables and PivotCharts
+- Data Analysis and Visualization
+- Dashboard Creation
+
+## Dataset
+The dataset contains hotel booking records with information such as:
+- Hotel type (City Hotel and Resort Hotel)
+- Booking cancellations
+- Arrival dates and lead time
+- Market segments and distribution channels
+- Customer types and special requests
+- Room types and booking changes
+
+## Key Analysis
+- Analyzed total booking records and cancellation counts.
+- Compared booking distribution between City Hotels and Resort Hotels.
+- Examined bookings across different market segments.
+- Summarized bookings by customer type.
+- Created an interactive-style dashboard to present key metrics and visual summaries.
+
+## Key Metrics
+- Total booking records: 119,390
+- Canceled bookings: 44,229
+- Non-canceled bookings: 75,161
+- Agency bookings: 103,050
+- Company bookings: 6,797
+
+## Project Files
+- `hotel_booking dashboard new.xlsx` — Excel workbook containing the dataset, PivotTables, and dashboard.
+- `hotel-booking-dashboard.png` — Dashboard screenshot for preview.
+
+## Objective
+To use Excel-based analysis and visualization to understand hotel booking trends and cancellation patterns.
+
+## Author
+Mutya Vyshnavi
